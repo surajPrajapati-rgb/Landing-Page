@@ -1,0 +1,21 @@
+.div-container {
+  background-color: #111; 
+  padding: 50px;
+  text-align: center;
+  height: 700px;
+  display: flex;
+  justify-content: flex-start; 
+  align-items: center; 
+
+}
+
+.div-title {
+  font-family: 'serif'; 
+  color: white; 
+  font-size: 100px;
+  text-align: left;
+  font-weight: normal;
+  margin: 0;
+  letter-spacing: 2px; 
+  margin-left: 120px;
+}
