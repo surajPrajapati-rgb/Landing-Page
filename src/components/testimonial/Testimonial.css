@@ -2,7 +2,6 @@
 .testimonial-container {
     background-color: #1f1f1f; 
     padding: 4%;
-    /* border-radius: 8px; */
     text-align: center;
     position: relative;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
@@ -18,7 +17,7 @@
 .line {
     border: none;
     height: 1px;
-    background-color: #666; /* Color for the horizontal line */
+    background-color: #666;
     margin: 0;
     opacity: 0.5;
 }
