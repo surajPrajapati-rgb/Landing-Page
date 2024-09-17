@@ -16,7 +16,7 @@ function Footer() {
 
         <div className="d-flex justify-content-between align-items-center bg-black">
 
-    <div className="d-flex">
+    <div className="d-flex m-3 p-3">
         <Nav.Link href="#" className="text-white mx-2" target="_blank" rel="noopener noreferrer">Preference</Nav.Link>
         <Nav.Link href="#" className="text-white mx-2" target="_blank" rel="noopener noreferrer">About</Nav.Link>
         <Nav.Link href="#" className="text-white mx-2" target="_blank" rel="noopener noreferrer">FAQs</Nav.Link>
