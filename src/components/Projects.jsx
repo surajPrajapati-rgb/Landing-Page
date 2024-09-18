@@ -13,7 +13,7 @@ const Projects = () => {
         <div className="project-section">
             <Container>
                 <Row>
-                    <Col md={6}>
+                    <Col md={6} className='mr-2'>
                         <Image src={projectImage1} rounded fluid />
                         <h3 className="project-title">Project One</h3>
                         <p className="project-description">

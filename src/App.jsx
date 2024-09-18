@@ -1,12 +1,12 @@
 
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css'
-import Header from './components/header/Header'
-import NavbarComponent from './components/navbar/NavbarComponent';
+import Header from './components/Header'
+import NavbarComponent from './components/NavbarComponent';
 import User from './components/User';
 import Projects from './components/Projects';
-import Testimonial from './components/testimonial/Testimonial';
-import FaqComponents from './components/FAQ/FaqComponents';
+import Testimonial from './components/Testimonial';
+import FaqComponents from './components/FaqComponents';
 // import Contact from './components/contact/Contact';
 import Footer from './components/Footer';
 

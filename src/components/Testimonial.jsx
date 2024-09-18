@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import './Testimonial.css';
 
+
 const testimonials = [
   {
     text: "I had a wonderful time working with [Name]. His flexibility, knowledge of human behavior, and UX design are remarkable and an asset for any client."
