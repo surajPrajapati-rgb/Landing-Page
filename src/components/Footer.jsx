@@ -24,17 +24,17 @@ function Footer() {
 
     <div className="d-flex">
         <Button className="rounded-pill bg-white mx-2">
-            <Nav.Link href="https://www.linkedin.com/in/divyansh-mishra-114955253/" className="text-black" target="_blank" rel="noopener noreferrer">
+            <Nav.Link href="#" className="text-black" target="_blank" rel="noopener noreferrer">
                 <FaLinkedin/>
             </Nav.Link>
         </Button>
         <Button className="rounded-pill bg-white mx-2">
-            <Nav.Link href="https://www.linkedin.com/in/divyansh-mishra-114955253/" className="text-black" target="_blank" rel="noopener noreferrer">
+            <Nav.Link href="#" className="text-black" target="_blank" rel="noopener noreferrer">
                 <FaYoutube/>
             </Nav.Link>
         </Button>
         <Button className="rounded-pill bg-white mx-2">
-            <Nav.Link href="https://www.linkedin.com/in/divyansh-mishra-114955253/" className="text-black" target="_blank" rel="noopener noreferrer">
+            <Nav.Link href="#" className="text-black" target="_blank" rel="noopener noreferrer">
                 <FaInstagram/>
             </Nav.Link>
         </Button>
