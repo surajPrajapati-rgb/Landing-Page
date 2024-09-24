@@ -10,10 +10,12 @@
 .contact-for-project h1{
     font-size: 90px;
     color: aliceblue;
+    margin-top: 5%;
 }
 
 button {
 margin-top: 20px;
 font-size: 50px;
+/* margin-bottom: 20px; */
 }
   
